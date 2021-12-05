@@ -1,0 +1,31 @@
+*{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+body{
+	width: 70%;
+	margin: auto;
+	box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+	background-color: #c2bcbc  ;
+}
+img {
+	width: 100%;
+}
+p{
+	font-family: Balsamiq Sans;
+	font-size: 15px;
+	margin: 115px;
+	color: black;
+}
+a{
+	font-family: Balsamiq Sans;
+	color: black;
+}
+h1{
+	font-family: Balsamiq Sans;
+}
+footer{
+	font-family: Balsamiq Sans;
+	color: black;
+}
