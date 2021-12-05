@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+main{
+	display: flex;
+	width:  80%;
+	margin: auto;
+	flex-wrap: wrap;
+	box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+	max-width: 1000px;
+	color: #fff;
+}
+
+.img101{
+	background-image: url(../img/img101.jpg);
+}
+.img102{
+	background-image: url(../img/img102.jpg);
+}
+.img103{
+	background-image: url(../img/img103.jpg);
+}
+.img104{
+	background-image: url(../img/img104.jpg);
+}
+.img105{
+	background-image: url(../img/img105.jpg);
+}
+.img106{
+	background-image: url(../img/img106.jpg);
+}
+.img107{
+	background-image: url(../img/img107.jpg);
+}
+.img108{
+	background-image: url(../img/img108.jpg);
+}
+.img109{
+	background-image: url(../img/img109.jpg);
+}
+.img110{
+	background-image: url(../img/img110.jpg);
+}
+.img111{
+	background-image: url(../img/img111.jpg);
+}
+.img112{
+	background-image: url(../img/img112.jpg);
+}
+.img113{
+	background-image: url(../img/img113.jpg);
+}
+.img114{
+	background-image: url(../img/img114.jpg);
+}
+.img115{
+	background-image: url(../img/img115.jpg);
+}
+.img116{
+	background-image: url(../img/img116.jpg);
+}
+.img117{
+	background-image: url(../img/img117.jpg);
+}
+.img118{
+	background-image: url(../img/img118.jpg);
+}
+.img119{
+	background-image: url(../img/img119.jpg);
+}
+.img120{
+	background-image: url(../img/img120.jpg);
+}
+.img121{
+	background-image: url(../img/img121.jpg);
+}
+.img122{
+	background-image: url(../img/img122.jpg);
+}
+.img123{
+	background-image: url(../img/img123.jpg);
+}
+.img124{
+	background-image: url(../img/img124.jpg);
+}
+.img125{
+	background-image: url(../img/img125.jpg);
+}
+.img126{
+	background-image: url(../img/img126.jpg);
+}
+.img127{
+	background-image: url(../img/img127.jpg);
+}
+.img128{
+	background-image: url(../img/img128.jpg);
+}
+.img129{
+	background-image: url(../img/img129.jpg);
+}
+.img130{
+	background-image: url(../img/img130.jpg);
+}
+.photo
+{
+	max-width: 490px;
+	max-height: 265px;
+	width: calc(50% - 10px);
+	height: calc(95vw/2/16*9);
+	background-position: center;
+	margin: 5px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.5);
+}
+
+.photo:hover{
+transform: rotate(2deg) scale(1.07);
+box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+transition: 1s;
+}
+
+a{
+	font-family: Merriweather;
+	font-size: 15px;
+	margin: 115px;
+	color: black;
+}
